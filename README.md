@@ -1,1 +1,1 @@
-# FIESTA-IoT XXX Module
+# FIESTA-IoT SmartICS Annotator Module
